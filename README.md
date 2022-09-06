@@ -11,7 +11,7 @@
 
 * Open an URL like "{{protocol}}://{{host}} to access and test the application.
 
-### start proxy server ###
+### Start Proxy Server ###
 * start proxy server for fixing cors error.
 
 * Go to on https://cors-anywhere.herokuapp.com/corsdemo and temporarily unlock access to the demo, click on the following button "Request temporary access to the demo server".
